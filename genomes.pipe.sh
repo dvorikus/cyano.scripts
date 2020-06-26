@@ -6,6 +6,8 @@
 # and amphora detection of universal orthologs
 # atuhor Petr Dvorak, Palacky University Olomouc
 # you can use the script, but there is absolutely nor waranty
+# to use this script you have to have installed Trimmomatic, Spades, Maxbin,
+# Amphora2 and Prokka
 
 
 # define variable name - sample name, change based on the sample name
